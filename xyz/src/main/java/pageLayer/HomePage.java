@@ -6,6 +6,9 @@ public class HomePage {
 	{
 		System.out.println("Demo1");
 	}
-	
+	public static void main(String[] args) {
+		
+		HomePage.demo1();
+	}
 
 }
